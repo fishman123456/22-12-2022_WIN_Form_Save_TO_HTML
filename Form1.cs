@@ -31,5 +31,10 @@ namespace _22_12_2022_WIN_Form_Save_TO_HTML
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
