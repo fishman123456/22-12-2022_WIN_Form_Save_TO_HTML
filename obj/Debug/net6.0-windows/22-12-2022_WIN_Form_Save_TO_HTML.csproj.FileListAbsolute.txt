@@ -1,0 +1,17 @@
+C:\Users\Fishman_1\Documents\GitHub\22-12-2022_WIN_Form_Save_TO_HTML\obj\Debug\net6.0-windows\22-12-2022_WIN_Form_Save_TO_HTML.csproj.AssemblyReference.cache
+C:\Users\Fishman_1\Documents\GitHub\22-12-2022_WIN_Form_Save_TO_HTML\obj\Debug\net6.0-windows\_22_12_2022_WIN_Form_Save_TO_HTML.Form1.resources
+C:\Users\Fishman_1\Documents\GitHub\22-12-2022_WIN_Form_Save_TO_HTML\obj\Debug\net6.0-windows\22-12-2022_WIN_Form_Save_TO_HTML.csproj.GenerateResource.cache
+C:\Users\Fishman_1\Documents\GitHub\22-12-2022_WIN_Form_Save_TO_HTML\obj\Debug\net6.0-windows\22-12-2022_WIN_Form_Save_TO_HTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fishman_1\Documents\GitHub\22-12-2022_WIN_Form_Save_TO_HTML\obj\Debug\net6.0-windows\22-12-2022_WIN_Form_Save_TO_HTML.AssemblyInfoInputs.cache
+C:\Users\Fishman_1\Documents\GitHub\22-12-2022_WIN_Form_Save_TO_HTML\obj\Debug\net6.0-windows\22-12-2022_WIN_Form_Save_TO_HTML.AssemblyInfo.cs
+C:\Users\Fishman_1\Documents\GitHub\22-12-2022_WIN_Form_Save_TO_HTML\obj\Debug\net6.0-windows\22-12-2022_WIN_Form_Save_TO_HTML.csproj.CoreCompileInputs.cache
+C:\Users\Fishman_1\Documents\GitHub\22-12-2022_WIN_Form_Save_TO_HTML\bin\Debug\net6.0-windows\22-12-2022_WIN_Form_Save_TO_HTML.exe
+C:\Users\Fishman_1\Documents\GitHub\22-12-2022_WIN_Form_Save_TO_HTML\bin\Debug\net6.0-windows\22-12-2022_WIN_Form_Save_TO_HTML.deps.json
+C:\Users\Fishman_1\Documents\GitHub\22-12-2022_WIN_Form_Save_TO_HTML\bin\Debug\net6.0-windows\22-12-2022_WIN_Form_Save_TO_HTML.runtimeconfig.json
+C:\Users\Fishman_1\Documents\GitHub\22-12-2022_WIN_Form_Save_TO_HTML\bin\Debug\net6.0-windows\22-12-2022_WIN_Form_Save_TO_HTML.dll
+C:\Users\Fishman_1\Documents\GitHub\22-12-2022_WIN_Form_Save_TO_HTML\bin\Debug\net6.0-windows\22-12-2022_WIN_Form_Save_TO_HTML.pdb
+C:\Users\Fishman_1\Documents\GitHub\22-12-2022_WIN_Form_Save_TO_HTML\obj\Debug\net6.0-windows\22-12-2022_WIN_Form_Save_TO_HTML.dll
+C:\Users\Fishman_1\Documents\GitHub\22-12-2022_WIN_Form_Save_TO_HTML\obj\Debug\net6.0-windows\refint\22-12-2022_WIN_Form_Save_TO_HTML.dll
+C:\Users\Fishman_1\Documents\GitHub\22-12-2022_WIN_Form_Save_TO_HTML\obj\Debug\net6.0-windows\22-12-2022_WIN_Form_Save_TO_HTML.pdb
+C:\Users\Fishman_1\Documents\GitHub\22-12-2022_WIN_Form_Save_TO_HTML\obj\Debug\net6.0-windows\22-12-2022_WIN_Form_Save_TO_HTML.genruntimeconfig.cache
+C:\Users\Fishman_1\Documents\GitHub\22-12-2022_WIN_Form_Save_TO_HTML\obj\Debug\net6.0-windows\ref\22-12-2022_WIN_Form_Save_TO_HTML.dll
