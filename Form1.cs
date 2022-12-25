@@ -25,8 +25,8 @@ namespace _22_12_2022_WIN_Form_Save_TO_HTML
 
             //string fProg = "  < body > <table> {border: 1px dashed grey;} <tr><td><p>";
             //string fProg2 = " </tr></table><p><font size = \"5\"></body></html> ";
-          string style = "<style> table {border: 1px dashed grey;}td {border: 1px solid grey;} </style >";
-            string body = "<table> <tbody><tr> ";
+          string style = "<style> {width:2600px; height:2339px; } table {border: 1px dashed grey;}td {border: 1px solid grey;} </style >";
+            string body = "<table> <tbody>   <tr>  ";  /* 1.6em = 16px */
             string body2 = "Моя первая таблица </p>";
             string body3 = " </tr></tbody> </table>";
             List<string> list = new List<string>();
@@ -40,7 +40,7 @@ namespace _22_12_2022_WIN_Form_Save_TO_HTML
                 foreach (string item in t)
                 {
                    // streamWriter.WriteLine( fProg+item + "</td>");
-                    streamWriter.WriteLine("<td>" + "<p>" + item + "</p>" + "</td>");
+                    streamWriter.WriteLine("<td>"  + "<p>" +"<font size = 4>"+ item + "</font>"+ "</p>" + "</td>");
                    // streamWriter.WriteLine(item);
                     
                 }
